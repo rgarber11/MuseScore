@@ -133,7 +133,7 @@ const std::array<StyleDef::StyleValue, size_t(Sid::STYLES)> StyleDef::styleValue
     { Sid::figuredBassStyle,        "figuredBassStyle",        0 },
     { Sid::systemFrameDistance,     "systemFrameDistance",     Spatium(7.0) },
     { Sid::frameSystemDistance,     "frameSystemDistance",     Spatium(7.0) },
-    { Sid::minMeasureWidth,         "minMeasureWidth",         Spatium(5.0) },
+    { Sid::minMeasureWidth,         "minMeasureWidth",         Spatium(15.0) },
     { Sid::barWidth,                "barWidth",                Spatium(0.18) },
     { Sid::doubleBarWidth,          "doubleBarWidth",          Spatium(0.18) },
 
